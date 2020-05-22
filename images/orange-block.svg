@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <g style="" transform="matrix(2.160032, 0, 0, 2.160032, -10.652807, -79.117294)">
+    <rect x="5.926" y="66.173" width="448" height="192" style="fill: rgb(252, 155, 9);" rx="5.9" ry="5.9" transform="matrix(1, 0, 0.00118, 1, 1.528582, -0.021671)"/>
+    <g>
+      <path style="paint-order: fill; fill: rgb(252, 155, 9); stroke: rgba(0, 0, 0, 0);" d="M 177.217 250.432 L 200.496 256.037 C 253.878 266.741 257.774 277.807 277.581 302.149 L 309.492 273.879 L 369.846 250.876 L 177.217 250.432 Z"/>
+    </g>
+  </g>
+</svg>
