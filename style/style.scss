@@ -257,7 +257,7 @@ header {
 
 .modalWindoW .wideInput1 {
     top: 149px;
-    background-image: url(../images/orangeCalendar.svg);
+    background-image: url("../images/orangeCalendar.svg");
     background-position: 380px;
     background-size: 6.5%;
     background-repeat: no-repeat;
@@ -384,17 +384,17 @@ header {
     }
 
     .clock {
-        background-image: url(../images/clock.svg);
+        background-image: url("../images/clock.svg");
         margin-right: 64.5%;
     }
 
     .photo {
-        background-image: url(../images/photo.svg);
+        background-image: url("../images/photo.svg");
         margin-right: 57.5%;
     }
 
     .map {
-        background-image: url(../images/map-pin-marked.svg);
+        background-image: url("../images/map-pin-marked.svg);
         margin-right: 77%;
 
         span:last-child {
