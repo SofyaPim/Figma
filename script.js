@@ -87,9 +87,9 @@ org[1].addEventListener('click', function () {
 
 function ReadMore(i) {
     pHidden[i].classList.toggle('show');
-    readMore[i].innerHTML = (readMore[i].innerHTML == 'Скрыть <img src="/icons/Arrow.svg" alt="arrow">') ?
-        'Читать еще <img src="/icons/Arrow.svg" alt="arrow">' :
-        'Скрыть <img src="/icons/Arrow.svg" alt="arrow">';
+    readMore[i].innerHTML = (readMore[i].innerHTML == 'Скрыть <img src="icons/Arrow.svg" alt="arrow">') ?
+        'Читать еще <img src="icons/Arrow.svg" alt="arrow">' :
+        'Скрыть <img src="icons/Arrow.svg" alt="arrow">';
 }
 
 readMore[0].addEventListener('click', function Read() {
