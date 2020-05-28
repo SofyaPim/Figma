@@ -260,7 +260,7 @@ header {
 
 .modalWindoW .wideInput1 {
   top: 149px;
-  background-image: url(/images/orangeCalendar.svg);
+  background-image: url("../images/orangeCalendar.svg");
   background-position: 380px;
   background-size: 6.5%;
   background-repeat: no-repeat;
