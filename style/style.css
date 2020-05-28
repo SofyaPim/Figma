@@ -228,7 +228,6 @@ header {
   height: 44px;
   left: 98px;
   border: 1px solid #C7C7C7;
-  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   border-radius: 3px;
 }
@@ -369,8 +368,7 @@ header {
 }
 
 .aboutPhotosession__left .aboutPhotosession__item {
-  display: -webkit-box;
-  display: -ms-flexbox;
+ 
   display: flex;
  
           align-items: center;
@@ -444,8 +442,7 @@ header {
 }
 
 .cupstars {
-  display: -webkit-box;
-  display: -ms-flexbox;
+ 
   display: flex;
           align-items: center;
   margin-top: 20px;
@@ -491,8 +488,7 @@ header {
 
 .packOfPhotos .gallery__band {
   padding-top: 2.7%;
-  display: -webkit-box;
-  display: -ms-flexbox;
+
   display: flex;
           flex-direction: row;
       flex-wrap: wrap;
@@ -713,8 +709,7 @@ header {
 
 .AvailableShooting__date {
   padding: 10px;
-  display: -webkit-box;
-  display: -ms-flexbox;
+ 
   display: flex;
           align-items: center;
           justify-content: flex-start;
@@ -824,8 +819,7 @@ header {
 }
 
 .map .timePlaceMeeting__item {
-  display: -webkit-box;
-  display: -ms-flexbox;
+ 
   display: flex;
           align-items: center;
   margin: 30px;
@@ -908,8 +902,7 @@ header {
 .reviews__card {
   padding-top: 3.5%;
   padding-left: 7.2%;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  
   display: flex;
 }
 
